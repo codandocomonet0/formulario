@@ -1,3 +1,8 @@
+@import url(./app.css);
+@import url(./form.css);
+@import url(./contact.css);
+@import url(./sucess.css);
+
 * {
   padding: 0;
   margin: 0;
